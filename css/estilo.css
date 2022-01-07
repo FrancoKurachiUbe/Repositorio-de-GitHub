@@ -9,6 +9,12 @@ body {
     padding: 1em;
     color: white;
 }
+
 #cabecera p {
     color: black;
+}
+
+footer {
+    background-color: black;
+    height: 200px;
 }
