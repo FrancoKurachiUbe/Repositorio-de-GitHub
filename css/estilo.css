@@ -9,3 +9,8 @@ body {
     padding: 1em;
     color: white;
 }
+
+footer {
+    background-color: black;
+    height: 200px;
+}
